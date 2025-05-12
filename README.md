@@ -121,19 +121,15 @@ Here are some sample outputs from the dashboard:
 
 2. **EV Maker Locations Map**:
    ![EV Maker Locations](images/pic2.png)
-   *Interactive scatter map showing geocoded EV manufacturer locations.*
 
 3. **Charging Stations Choropleth**:
    ![Charging Stations](images/pic5.png)
-   *Choropleth map of public charging stations by state.*
 
 4. **Sales Market Share**:
    ![Market Share](images/pic4.png)
-   *Pie chart showing the market share of top EV manufacturers.*
 
 5. **Category Registration Heatmap**:
    ![Category Heatmap](images/pic3.png)
-   *Heatmap of daily EV registrations by category.*
 
 ---
 
