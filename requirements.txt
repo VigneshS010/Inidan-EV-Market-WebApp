@@ -3,7 +3,6 @@ pandas
 plotly
 geopy
 datetime
-base64
 geopandas
 numpy
 matplotlib
