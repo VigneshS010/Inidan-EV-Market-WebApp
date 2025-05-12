@@ -1,7 +1,3 @@
-Below is a comprehensive and polished **README.md** file in Markdown format tailored for your India EV Insights Dashboard project. It is designed to clearly communicate the project's purpose, functionality, technical details, and setup instructions to hackathon judges, making it professional, engaging, and easy to understand. You can directly copy and paste this into your GitHub repository's `README.md` file.
-
----
-
 # 🚗 India EV Insights Dashboard
 
 ![Header Image](images/bg_home.png)
