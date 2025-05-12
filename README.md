@@ -29,15 +29,15 @@ The dashboard is designed for policymakers, industry stakeholders, and enthusias
 
 The dashboard is organized into four interactive sections, accessible via a sidebar navigation:
 
-1. ** Geospatial Insights**:
+### 1. Geospatial Insights:
    - **EV Maker Locations**: Interactive map showing geocoded locations of EV manufacturers, filtered by maker, place, or state.
    - **Charging Stations Map**: Choropleth map visualizing the density of public charging stations by state, highlighting infrastructure distribution.
 
-2. ** EV Market Status**:
+### 2. EV Market Status:
    - Bar and pie charts displaying EV registrations by vehicle class.
    - Line chart showing aggregated EV sales trends over time across all manufacturers and categories.
 
-3. ** EV Sales**:
+### 3. EV Sales:
    - Detailed sales analysis with filters for year and manufacturer.
    - Visualizations include:
      - Pie chart for market share of top manufacturers.
@@ -45,7 +45,7 @@ The dashboard is organized into four interactive sections, accessible via a side
      - Bar chart for sales by vehicle category.
      - Growth analysis showing percentage sales growth for manufacturers between the earliest and latest years.
 
-4. ** EV Category Trends**:
+### 4. EV Category Trends:
    - Heatmap of daily EV registrations by category over a selected date range.
    - Line chart for registration trends of a specific EV category, with customizable date filters.
 
