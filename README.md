@@ -1,6 +1,6 @@
 # 🚗 India EV Insights Dashboard
 
-![Header Image](images/bg_home.png)
+![Header Image](images/pic1.png)
 
 **A Streamlit-based interactive dashboard for analyzing Electric Vehicle (EV) sales, infrastructure, and trends across India.**
 
@@ -158,19 +158,19 @@ Follow these steps to set up and run the dashboard locally:
 Here are some sample outputs from the dashboard:
 
 1. **EV Maker Locations Map**:
-   ![EV Maker Locations](images/sample_maker_locations.png)
+   ![EV Maker Locations](images/pic2.png)
    *Interactive scatter map showing geocoded EV manufacturer locations.*
 
 2. **Charging Stations Choropleth**:
-   ![Charging Stations](images/sample_charging_stations.png)
+   ![Charging Stations](images/pic5.png)
    *Choropleth map of public charging stations by state.*
 
 3. **Sales Market Share**:
-   ![Market Share](images/sample_market_share.png)
+   ![Market Share](images/pic4.png)
    *Pie chart showing the market share of top EV manufacturers.*
 
 4. **Category Registration Heatmap**:
-   ![Category Heatmap](images/sample_heatmap.png)
+   ![Category Heatmap](images/pic3.png)
    *Heatmap of daily EV registrations by category.*
 
 *(Note: Replace `images/sample_*.png` with actual screenshots from your dashboard for a more impactful README.)*
