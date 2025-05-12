@@ -1,6 +1,6 @@
 # 🚗 India EV Insights Dashboard
 
-![Header Image](images/pic1.png)
+![Header Image](images/bg_home.png)
 
 **A Streamlit-based interactive dashboard for analyzing Electric Vehicle (EV) sales, infrastructure, and trends across India.**
 
@@ -157,37 +157,38 @@ Follow these steps to set up and run the dashboard locally:
 
 Here are some sample outputs from the dashboard:
 
-1. **EV Maker Locations Map**:
+1. **Home Page Dashboard**:
+   ![EV Maker Locations](images/pic1.png)
+
+2. **EV Maker Locations Map**:
    ![EV Maker Locations](images/pic2.png)
    *Interactive scatter map showing geocoded EV manufacturer locations.*
 
-2. **Charging Stations Choropleth**:
+3. **Charging Stations Choropleth**:
    ![Charging Stations](images/pic5.png)
    *Choropleth map of public charging stations by state.*
 
-3. **Sales Market Share**:
+4. **Sales Market Share**:
    ![Market Share](images/pic4.png)
    *Pie chart showing the market share of top EV manufacturers.*
 
-4. **Category Registration Heatmap**:
+5. **Category Registration Heatmap**:
    ![Category Heatmap](images/pic3.png)
    *Heatmap of daily EV registrations by category.*
-
-*(Note: Replace `images/sample_*.png` with actual screenshots from your dashboard for a more impactful README.)*
 
 ---
 
 ## 🔍 Key Challenges and Solutions
 
-1. **State Name Mismatch**:
+2. **State Name Mismatch**:
    - **Challenge**: Inconsistent state names between datasets and GeoJSON (e.g., "NCT of Delhi" vs. "Delhi").
    - **Solution**: Implemented a `STATE_NAME_MAPPING` dictionary to normalize state names during data preprocessing.
 
-2. **Geocoding Limitations**:
+3. **Geocoding Limitations**:
    - **Challenge**: The Nominatim API has rate limits, and ambiguous place names (e.g., "Bangalore") can lead to inaccurate geocoding.
    - **Solution**: Cached geocoding results for 24 hours, limited geocoding to 30 unique places per filter, and added user feedback via progress bars and warnings.
 
-3. **Data Volume**:
+4. **Data Volume**:
    - **Challenge**: Large datasets slowed down initial loading and visualization rendering.
    - **Solution**: Used Streamlit's caching (`@st.cache_data`) and optimized data processing with Pandas.
 
@@ -229,7 +230,7 @@ Here are some sample outputs from the dashboard:
 
 **Vignesh S**  
 🔗 [LinkedIn](https://www.linkedin.com/in/vignesh-s-9b86a7243)  
-📧 Email: your.email@example.com *(Replace with your actual email)*  
+📧 Email: vigneshvaran0101@gmail.com   
 
 This project was built with passion for data science and sustainable mobility. Feedback and contributions are welcome!
 
