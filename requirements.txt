@@ -5,3 +5,7 @@ geopy
 datetime
 base64
 geopandas
+numpy
+matplotlib
+seaborn
+pydeck
