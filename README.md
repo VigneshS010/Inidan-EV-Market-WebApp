@@ -117,7 +117,7 @@ project/
 Here are some sample outputs from the dashboard:
 
 1. **Home Page Dashboard**:
-   ![EV Maker Locations](images/pic1.png)
+   ![EV Maker Locations](images/pic6.png)
 
 2. **EV Maker Locations Map**:
    ![EV Maker Locations](images/pic2.png)
