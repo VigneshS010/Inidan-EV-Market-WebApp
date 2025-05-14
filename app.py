@@ -646,5 +646,6 @@ st.markdown("---")
 st.caption(
     "📍 *Note: Data has been cleaned and standardized. Map accuracy depends on the quality of input data and geographic mapping.* \n\n "
     "🛠️ Developed by **Vignesh S**\n"
-    "🔗 [LinkedIn](www.linkedin.com/in/vignesh-s-9b86a7243)"
+    '<a href="https://www.linkedin.com/in/vignesh-s-9b86a7243" target="_blank">Connect on LinkedIn</a>',
+    unsafe_allow_html=True
 )
